@@ -1,14 +1,15 @@
 # Spam_identification_system
+
 About A Natural Language Processing with SMS Data to predict whether the SMS is Spam/Ham with various ML Algorithms like multinomial-naive-bayes.
 
 
 #Introduction
 
-
 A Natural Language Processing with SMS Data to predict whether the SMS is Spam/Ham with various ML Algorithms like multinomial-naive-bayes using various data cleaning and processing techniques like PorterStemmer,CountVectorizer,TFIDF Vetorizer,WordnetLemmatizer. It is implemented using LSTM and Word Embeddings to gain accuracy of 97.84%.
 
 
 #Purpose
+
 This spam identification system is used to detect weather the given data is spam or not.it gives 0 if the message is not spam else it gives the output as 1 as it indicates that the message is spam.
 
 
@@ -24,3 +25,15 @@ For any kind of suggesstions/ help in models code Please mail me at sravanibnrs0
 
 📜 LICENSE
 MIT
+
+
+
+Here most important is we build an complete app with help of previously build machine learning model
+in this app there is user autentication and login,signup page .
+it can remember the user given data and provide that in data base.
+
+The complete code and details are there in app.py folder  
+
+
+
+
